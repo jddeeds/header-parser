@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/jddeeds/header-parser/issues"
   },
-  "homepage": "https://github.com/jddeeds/header-parser#readme"
+  "homepage": "https://github.com/jddeeds/header-parser#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "useragent": "^2.1.13"
+  }
 }
